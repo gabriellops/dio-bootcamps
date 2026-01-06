@@ -1,0 +1,15 @@
+C:\gft-teste-tecnico\Ex02\bin\Debug\net6.0\Ex02.exe
+C:\gft-teste-tecnico\Ex02\bin\Debug\net6.0\Ex02.deps.json
+C:\gft-teste-tecnico\Ex02\bin\Debug\net6.0\Ex02.runtimeconfig.json
+C:\gft-teste-tecnico\Ex02\bin\Debug\net6.0\Ex02.dll
+C:\gft-teste-tecnico\Ex02\bin\Debug\net6.0\Ex02.pdb
+C:\gft-teste-tecnico\Ex02\obj\Debug\net6.0\Ex02.csproj.AssemblyReference.cache
+C:\gft-teste-tecnico\Ex02\obj\Debug\net6.0\Ex02.GeneratedMSBuildEditorConfig.editorconfig
+C:\gft-teste-tecnico\Ex02\obj\Debug\net6.0\Ex02.AssemblyInfoInputs.cache
+C:\gft-teste-tecnico\Ex02\obj\Debug\net6.0\Ex02.AssemblyInfo.cs
+C:\gft-teste-tecnico\Ex02\obj\Debug\net6.0\Ex02.csproj.CoreCompileInputs.cache
+C:\gft-teste-tecnico\Ex02\obj\Debug\net6.0\Ex02.dll
+C:\gft-teste-tecnico\Ex02\obj\Debug\net6.0\refint\Ex02.dll
+C:\gft-teste-tecnico\Ex02\obj\Debug\net6.0\Ex02.pdb
+C:\gft-teste-tecnico\Ex02\obj\Debug\net6.0\Ex02.genruntimeconfig.cache
+C:\gft-teste-tecnico\Ex02\obj\Debug\net6.0\ref\Ex02.dll
