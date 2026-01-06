@@ -1,0 +1,15 @@
+/home/gabriel/Documentos/dio-rgp-oop/bin/Debug/net6.0/dio-rgp-oop
+/home/gabriel/Documentos/dio-rgp-oop/bin/Debug/net6.0/dio-rgp-oop.deps.json
+/home/gabriel/Documentos/dio-rgp-oop/bin/Debug/net6.0/dio-rgp-oop.runtimeconfig.json
+/home/gabriel/Documentos/dio-rgp-oop/bin/Debug/net6.0/dio-rgp-oop.dll
+/home/gabriel/Documentos/dio-rgp-oop/bin/Debug/net6.0/dio-rgp-oop.pdb
+/home/gabriel/Documentos/dio-rgp-oop/obj/Debug/net6.0/dio-rgp-oop.csproj.AssemblyReference.cache
+/home/gabriel/Documentos/dio-rgp-oop/obj/Debug/net6.0/dio-rgp-oop.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/Documentos/dio-rgp-oop/obj/Debug/net6.0/dio-rgp-oop.AssemblyInfoInputs.cache
+/home/gabriel/Documentos/dio-rgp-oop/obj/Debug/net6.0/dio-rgp-oop.AssemblyInfo.cs
+/home/gabriel/Documentos/dio-rgp-oop/obj/Debug/net6.0/dio-rgp-oop.csproj.CoreCompileInputs.cache
+/home/gabriel/Documentos/dio-rgp-oop/obj/Debug/net6.0/dio-rgp-oop.dll
+/home/gabriel/Documentos/dio-rgp-oop/obj/Debug/net6.0/refint/dio-rgp-oop.dll
+/home/gabriel/Documentos/dio-rgp-oop/obj/Debug/net6.0/dio-rgp-oop.pdb
+/home/gabriel/Documentos/dio-rgp-oop/obj/Debug/net6.0/dio-rgp-oop.genruntimeconfig.cache
+/home/gabriel/Documentos/dio-rgp-oop/obj/Debug/net6.0/ref/dio-rgp-oop.dll
